@@ -1,6 +1,6 @@
 -lib heaps
 
 -cp src
--js hello.js
+-js export/debug/js/hello.js
 -main Main
 -debug
